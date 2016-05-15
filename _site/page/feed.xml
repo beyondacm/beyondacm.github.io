@@ -5,8 +5,8 @@
     <description>beyond_acm - Don't Judge on me</description>
     <link></link>
     <atom:link href="/page/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 15 May 2016 02:44:15 +0800</pubDate>
-    <lastBuildDate>Sun, 15 May 2016 02:44:15 +0800</lastBuildDate>
+    <pubDate>Sun, 15 May 2016 12:28:24 +0800</pubDate>
+    <lastBuildDate>Sun, 15 May 2016 12:28:24 +0800</lastBuildDate>
     <generator>zpGao</generator>
     
       <item>
@@ -14,6 +14,12 @@
         <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;身患绝症的人想要放弃，该鼓励吗&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/res/my_image/16-5-15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;audio autoplay=&quot;&quot; controls=&quot;controls&quot;&gt;
+  &lt;source type=&quot;audio/mpeg&quot; src=&quot;/res/my_music/the_scientist.mp3&quot; /&gt;&amp;lt;/source&amp;gt;
+  
+  &lt;p&gt;Your browser does not support the audio element.&lt;/p&gt;
+&lt;/audio&gt;
 
 &lt;p&gt;每个人都需要面对死亡，死亡是我们每个人逃不掉的宿命，如果不在今天，就在明天，如果不在明天，就在今后的某一天。&lt;/p&gt;
 
