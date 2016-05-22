@@ -8,6 +8,7 @@
 /page/about
 /404
 
+/blog/2016/05/22/Singapore-in-my-eyes.html
 /blog/2016/05/15/How-to-say-goodbye.html
 /blog/2016/05/14/Can-you-fall-in-love-with-AI.html
 /blog/2016/05/11/Start-from-here.html
