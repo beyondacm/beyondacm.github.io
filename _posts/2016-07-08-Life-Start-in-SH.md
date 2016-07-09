@@ -11,9 +11,8 @@ tags: 心情
   
   <p>Your browser does not support the audio element.</p>
 </audio>
-首先女神镇楼
-
-![](/res/my_image/16-07-08-04.JPG)
+首先女神镇楼  
+![](/res/my_image/16-07-08-04.jpg)
 
 从新加坡回来一个多月了，发生了一些事情，记录一下。
 
