@@ -8,6 +8,7 @@
 /page/about
 /404
 
+/blog/2016/09/02/Intern-at-Tmxmall.html
 /blog/2016/07/08/Life-Start-in-SH.html
 /blog/2016/05/22/Singapore-in-my-eyes.html
 /blog/2016/05/15/How-to-say-goodbye.html

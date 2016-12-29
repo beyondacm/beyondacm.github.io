@@ -1,14 +1,32 @@
 ---
 layout: post
 title: Intern at Tmxmall
-category: 
+category: It's my life
 date: 2016-09-02
 ---
+<audio autoplay controls="controls">
+  <source type="audio/mpeg" src="/res/my_music/猫的感恩.mp3"></source>
+  
+  <p>Your browser does not support the audio element.</p>
+</audio>
+![](/res/my_image/16-09-02-03.jpg)
 
 很幸运能加入这个友爱的团队，
 更幸运的是能和一群有梦想的年轻人学习和成长，
-Thanks again ~
+我想我在很久以后依然会记得
+晶晶姐在办公室开亚洲的玩笑，
 
+会记得柴哥那总是夹杂着重庆味的普通话，  
+会记得亚洲时不时脱口而出又让大家不知所措的“亚洲英语”，   
+会记得井哥稍显结巴但是意气风发的演讲，  
+会记得每天早上紧凑的晨会，  
+也会记得每天中午一起刷过的全家
 
+如果没有误打误撞加入Tmaxmall我想我可能很晚才知道小创业公司这种快速迭代高效的开发环境，而且整个公司就像一个大家庭一样，工作的时候毫不含糊，讲黄段子的时候一个比一个更污，港真和大公司按部就班的工作方式相比起来我是很喜欢这种工作氛围的。井哥虽然不比我们大多少，但是都已经在自主创业的道路上走过几个年头了，想想觉得挺愧疚的。
 
-在Tmxmall实习了近三个月 
+最最重要的是，从这些小伙伴身上你可以真真切切的感受到他们的梦想，他们的激情！我想，正是由于千千万万像他们一样的年轻人每一天的努力向上，也是中国未来的希望所在吧～
+
+扯远了，一段宝贵的经历，Thanks again ~
+
+![](/res/my_image/16-09-02-01.jpg)  
+![](/res/my_image/16-09-02-00.jpg)
