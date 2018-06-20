@@ -21,7 +21,7 @@ date: 2018-06-21
 
 目前在 SMU 和蒋老师合作，topic是 semantic bug detection in smart contract...来了两个月了，找回了之前做 research 的感觉，恩，希望走之前能发表一篇 ICSE。。。乱七八糟写了这么多，总结是个好习惯，希望Ph.D期间能保持。。。 
 
-![](/res/my_image/16-12-30-00.jpg)
+![](/res/my_image/18-06-21-01.jpg)
 
 
 
